@@ -1,2 +1,3 @@
-# backend: This is the backend of a messaging app
-#frontend: this is the frontend of a messaging app
+Backend and Frontend of a Messaging app
+app did not work properly
+backend and frontend worked individually but not when put toghether
