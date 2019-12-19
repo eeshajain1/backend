@@ -1,0 +1,21 @@
+.signup-wrapper{
+   border: black;
+   border-style:solid;
+   text-align: left;
+   height: 300px;
+   width: 300px;
+   background-color: rgb(179, 179, 236);
+   box-sizing: border-box;
+}
+.signup-wrapper1{
+   background-color: rgb(179, 179, 236);
+}
+.signup-wrapper2{
+   margin: 20px;
+}
+.signup-wrapper3{
+   margin: 20px;
+}
+.signup-wrapper4{
+   margin: 40px;
+}

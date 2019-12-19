@@ -1,0 +1,24 @@
+.Chat-Log{
+   padding: 100px;
+   height: 150;
+   width: 400px;
+   color: black;
+   border: black;
+   border-style: solid;
+   font-size: 30px;
+   text-align: center;
+}
+.Chat-Text{
+   color: black;
+   text-align: left;
+   width: 606px;
+   background-color: rgb(181, 203, 221);
+   box-sizing: border-box;
+}
+.Chat-Textbox{
+   color: black;
+   border:black;
+   border-style: soild;
+   font-size: 15px;
+   height: 30px;
+}

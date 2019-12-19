@@ -1,0 +1,19 @@
+.login-wrapper{
+   text-align: center;
+   border: black;
+   border-style:solid;
+   text-align: left;
+   height: 300px;
+   width: 400px;
+   background-color: pink;
+   box-sizing: border-box;
+}
+.login-wrapper1{
+   padding: 20px;
+}
+.login-wrapper2{
+   margin: 20px;
+}
+.login-wrapper3{
+   margin: 40px;
+}
